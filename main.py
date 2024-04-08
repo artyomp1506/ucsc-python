@@ -14,3 +14,4 @@ async def init():
     return app
 
 web.run_app(init())
+print("111")
