@@ -1,4 +1,4 @@
-from fake_redis import FakeRedis
+from tests.fake_redis import FakeRedis
 from converter.models.redis_storage import RedisStorage
 import unittest
 
